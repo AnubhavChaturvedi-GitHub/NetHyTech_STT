@@ -29,7 +29,7 @@ if __name__ == "__main__":
     listen()
 ```
 
-For more advanced usage examples and detailed documentation, please visit the [GitHub repository](https://github.com/Anubhavchaturvedi/NetHyTech-STT/wiki).
+For more advanced usage examples and detailed documentation, please visit the [GitHub repository](https://github.com/AnubhavChaturvedi-GitHub/NetHyTech_STT.git).
 
 ## 📚 Examples
 
