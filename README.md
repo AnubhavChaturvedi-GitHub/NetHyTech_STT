@@ -43,12 +43,9 @@ Contributions are welcome! If you have ideas for improvements, feature requests,
 
 For any questions, feedback, or support, feel free to reach out:
 
-- YouTube: [NetHyTech](https://www.youtube.com/channel/NetHyTech-STT)
-- Instagram: [NetHyTech](https://www.instagram.com/nethytech_stt)
+- YouTube: [NetHyTech](https://www.youtube.com/channel/UC7YDMgu0dMRZotLMuB3oEcQ)
+- Instagram: [NetHyTech](https://www.instagram.com/_anubhav__chaturvedi_/)
 
 ## 📄 License
 
 NetHyTech-STT is licensed under the [MIT License](LICENSE).
-```
-
-You can save this content in a file named `README.md` in your project directory. This file will serve as the README for your NetHyTech-STT package.
