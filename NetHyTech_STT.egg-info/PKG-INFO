@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: NetHyTech-STT
+Version: 0.1
+Summary: A package for speech-to-text using Selenium
+Author: Anubhav Chaturvedi
+Author-email: chaturvedianubhav520@example.com
+Requires-Dist: selenium
+Requires-Dist: webdriver_manager
+Requires-Dist: pyttsx3

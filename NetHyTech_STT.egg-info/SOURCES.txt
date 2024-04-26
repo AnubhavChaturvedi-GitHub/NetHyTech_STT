@@ -1,0 +1,8 @@
+setup.py
+NetHyTech_STT/__init__.py
+NetHyTech_STT.egg-info/PKG-INFO
+NetHyTech_STT.egg-info/SOURCES.txt
+NetHyTech_STT.egg-info/dependency_links.txt
+NetHyTech_STT.egg-info/entry_points.txt
+NetHyTech_STT.egg-info/requires.txt
+NetHyTech_STT.egg-info/top_level.txt
