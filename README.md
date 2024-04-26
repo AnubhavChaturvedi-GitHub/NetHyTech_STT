@@ -14,6 +14,8 @@ NetHyTech-STT is a Python package for seamless speech-to-text (STT) conversion u
 
 You can install NetHyTech-STT via pip:
 
+Pypi link :- [pip](https://pypi.org/project/NetHyTech-STT/).
+
 ```bash
 pip install NetHyTech-STT
 ```
