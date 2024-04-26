@@ -43,9 +43,8 @@ Contributions are welcome! If you have ideas for improvements, feature requests,
 
 For any questions, feedback, or support, feel free to reach out:
 
-- YouTube: [NetHyTech-STT](https://www.youtube.com/channel/NetHyTech-STT)
-- Instagram: [NetHyTech_STT](https://www.instagram.com/nethytech_stt)
-- Facebook: [NetHyTech-STT](https://www.facebook.com/nethytech_stt)
+- YouTube: [NetHyTech](https://www.youtube.com/channel/NetHyTech-STT)
+- Instagram: [NetHyTech](https://www.instagram.com/nethytech_stt)
 
 ## License
 
